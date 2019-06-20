@@ -8,7 +8,7 @@ or cities in a country.
 
 Ants are decentralized, and have limited memory and capabilities. Yet through simple communication mechanisms, a colony of ants can efficiently solve complex problems like predator evasion and shortest path finding.
 
-If we mimic the behavior of ant colonies in computer systems, we can create efficient, scalable, and distributed algorithms for searching, sorting, and classifying data.
+If we mimic the behavior of ant colonies in computer systems, we can create efficient, scalable, and distributed algorithms for searching through data.
 
 # What can I do with the demo?
 
@@ -20,9 +20,7 @@ The traveling salesman problem is an example of an important general problem: ho
 
 # OK, How do I actually do this?
 
-To test the demo, three real-life datasets are included: the coordinates of cities in Djibouti (Africa), Qatar (Middle East), and Luxembourg (Europe). Featured is the "MAX-MIN" ant colony system created by Thomas Stützle and Holger H. Hoos.
-
-Vote for us to feature more demos of ant colony algorithms and applications.
+To test the demo, three real-life datasets are included: the coordinates of cities in Djibouti (Africa), Qatar (Middle East), and Luxembourg (Europe). The demo is pre-prepared to run the "MAX-MIN" ant colony system created by Thomas Stützle and Holger H. Hoos, but 5 other algorithms are also included for you to experiment with.
 
 # Sources
 

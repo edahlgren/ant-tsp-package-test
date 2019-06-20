@@ -1,4 +1,4 @@
-# Data analysis: Using real-life ant colony behavior to find the shortest route
+# Using an artificial ant colony to find the shortest route
 
 This demo shows how a real ant colony's foraging behavior can be used to search a dataset for the shortest path through connected points. [[1]](http://www.aco-metaheuristic.org/aco-code/public-software.html)
 
